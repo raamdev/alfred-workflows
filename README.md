@@ -1,4 +1,4 @@
-## My Alfred workflows on OS X.
+## My [Alfred](http://www.alfredapp.com/) workflows on OS X.
 
 Quick KB article suggestions; powered by Google.
 
